@@ -1,0 +1,31 @@
+c:\users\bungler\documents\visual studio 2013\Projects\English Test\English Test\bin\Debug\English Test.exe.config
+c:\users\bungler\documents\visual studio 2013\Projects\English Test\English Test\bin\Debug\English Test.exe
+c:\users\bungler\documents\visual studio 2013\Projects\English Test\English Test\bin\Debug\English Test.pdb
+c:\users\bungler\documents\visual studio 2013\Projects\English Test\English Test\obj\Debug\English Test.csprojResolveAssemblyReference.cache
+c:\users\bungler\documents\visual studio 2013\Projects\English Test\English Test\obj\Debug\MainWindow.baml
+c:\users\bungler\documents\visual studio 2013\Projects\English Test\English Test\obj\Debug\MainWindow.g.cs
+c:\users\bungler\documents\visual studio 2013\Projects\English Test\English Test\obj\Debug\App.g.cs
+c:\users\bungler\documents\visual studio 2013\Projects\English Test\English Test\obj\Debug\English Test_MarkupCompile.cache
+c:\users\bungler\documents\visual studio 2013\Projects\English Test\English Test\obj\Debug\English Test.g.resources
+c:\users\bungler\documents\visual studio 2013\Projects\English Test\English Test\obj\Debug\English_Test.Properties.Resources.resources
+c:\users\bungler\documents\visual studio 2013\Projects\English Test\English Test\obj\Debug\English Test.csproj.GenerateResource.Cache
+c:\users\bungler\documents\visual studio 2013\Projects\English Test\English Test\obj\Debug\English Test.exe
+c:\users\bungler\documents\visual studio 2013\Projects\English Test\English Test\obj\Debug\English Test.pdb
+C:\Users\Bungler\documents\visual studio 2013\Projects\English Test\English Test\obj\Debug\English_Test.Editor.resources
+F:\OLDS\Projects\English Test\English Test\bin\Debug\English Test.exe.config
+F:\OLDS\Projects\English Test\English Test\obj\Debug\English Test.exe
+F:\OLDS\Projects\English Test\English Test\obj\Debug\English Test.pdb
+F:\OLDS\Projects\English Test\English Test\bin\Debug\English Test.exe
+F:\OLDS\Projects\English Test\English Test\bin\Debug\English Test.pdb
+F:\OLDS\Projects\English Test\English Test\obj\Debug\English Test.csprojResolveAssemblyReference.cache
+F:\OLDS\Projects\English Test\English Test\obj\Debug\MainWindow.baml
+F:\OLDS\Projects\English Test\English Test\obj\Debug\MainWindow.g.cs
+F:\OLDS\Projects\English Test\English Test\obj\Debug\App.g.cs
+F:\OLDS\Projects\English Test\English Test\obj\Debug\English Test_MarkupCompile.cache
+F:\OLDS\Projects\English Test\English Test\obj\Debug\English Test.g.resources
+F:\OLDS\Projects\English Test\English Test\obj\Debug\English_Test.Editor.resources
+F:\OLDS\Projects\English Test\English Test\obj\Debug\English_Test.Properties.Resources.resources
+F:\OLDS\Projects\English Test\English Test\obj\Debug\English Test.csproj.GenerateResource.Cache
+E:\Projects\Projects\English Test\English Test\bin\Debug\English Test.exe.config
+E:\Projects\Projects\English Test\English Test\obj\Debug\English Test.exe
+E:\Projects\Projects\English Test\English Test\obj\Debug\English Test.pdb
